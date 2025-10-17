@@ -163,7 +163,7 @@ CCTV4中文国际,http://148.135.93.213/live.php?id=CCTV4$LR•IPV4•52『线�
 CCTV4中文国际,http://218.13.14.6:60050/tsfile/live/1004_1.m3u8$LR•IPV4•52『线路30』
 CCTV4中文国际,http://58.57.40.22:9901/tsfile/live/1003_1.m3u8$LR•IPV4•52『线路31』
 CCTV4中文国际,https://cc06.tv12.xyz/4.m3u8$LR•IPV4•52『线路32』
-CCTV4中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760760119-1-pcsf1229fa7478747d58f5fb879a69b80d7-cdc865b5d64c40a91885e056e3a97061&yid=pcsf1229fa7478747d58f5fb879a69b80d7$LR•IPV4•52『线路33』
+CCTV4中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1760763750-1-pcs2ea68bdfa7934965874790d4931df90e-744becc2dc66193c2aeaec453377f507&yid=pcs2ea68bdfa7934965874790d4931df90e$LR•IPV4•52『线路33』
 CCTV4中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$LR•IPV4•52『线路34』
 CCTV4中文国际,http://ygbh.site/php/bfgd.php?id=063$LR•IPV4•52『线路35』
 CCTV4中文国际,https://cc06.tv12.xyz/4.m3u8$LR•IPV4•52『线路36』
@@ -2007,7 +2007,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•4『线路4』
 河南卫视,http://148.135.93.213/live.php?id=河南卫视$LR•IPV4•60『线路36』
 河南卫视,http://home.wwang.pw:35455/itv/1000000002000027731.m3u8?cdn=ystenlive$LR•IPV4•60『线路37』
 河南卫视,http://39.164.160.249:9901/tsfile/live/0139_1.m3u8$LR•IPV4•60『线路38』
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=1f699a55d926166d563166000ea8c2e8&wsTime=1760720616$LR•IPV4•60『线路39』
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=09c4a2c230cc27bedd2ad07157ebd5b7&wsTime=1760724222$LR•IPV4•60『线路39』
 河南卫视,http://ygbh.site/php/bfgd.php?id=104$LR•IPV4•60『线路40』
 河南卫视,https://cc06.tv12.xyz/49.m3u8$LR•IPV4•60『线路41』
 河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8$LR•IPV4•60『线路42』
@@ -3672,8 +3672,8 @@ CHC家庭影院,https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=eda0112e
 都市剧场,https://hls-gateway.vpstv.net/streams/708845.m3u8$LR•IPV4•24『线路20』
 都市剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8$LR•IPV6•24『线路21』
 都市剧场,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&Ace$LR•IPV6•24『线路22』
-都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•24『线路23』
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•24『线路24』
+都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•24『线路23』
+都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•24『线路24』
 金色学堂,http://sh.lnott.top:880/dx109.m3u8$LR•IPV4•10『线路1』
 金色学堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8$LR•IPV6•10『线路2』
 金色学堂,https://epg.pw/stream/303d79304fb4c6e23c320315de037e71f67a6ee8866d45e994b896d07eede2bb.m3u8$LR•IPV4•10『线路3』
@@ -3984,8 +3984,8 @@ CHC家庭影院,https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=eda0112e
 法治天地,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$LR•IPV6•25『线路21』
 法治天地,http://[2409:8087:5e08:25::4]:6610/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&Ace$LR•IPV6•25『线路22』
 法治天地,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/index.m3u8$LR•IPV6•25『线路23』
-法治天地,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8$LR•IPV6•25『线路24』
-法治天地,https://cc06.tv12.xyz/42.m3u8$LR•IPV4•25『线路25』
+法治天地,https://cc06.tv12.xyz/42.m3u8$LR•IPV4•25『线路24』
+法治天地,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8$LR•IPV6•25『线路25』
 第一财经,https://epg.pw/stream/34bf6946fa5dc33632ff8bbd45ea1356adb3fb17ddd977b85c7cdf6073a0196a.m3u8$LR•IPV4•29『线路1』
 第一财经,https://epg.pw/stream/382ae49346c9d58fbd548b9b0013664d5c6d4bc6da1cb6cecf4eef5e535bc206.m3u8$LR•IPV4•29『线路2』
 第一财经,https://epg.pw/stream/8f5f5b037e4f5be88499735028bbba80eb375ef3d92a994a328a821bf66a33ff.m3u8$LR•IPV4•29『线路3』
