@@ -319,7 +319,7 @@ http://148.135.93.213/live.php?id=CCTV4$LR•IPV4•51『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://218.13.14.6:60050/tsfile/live/1004_1.m3u8$LR•IPV4•51『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1761584209-1-pcs397fee1a5e2c48e19364d72b9f3cc02e-40b0445c6445222c533c8c7b3b0b772e&yid=pcs397fee1a5e2c48e19364d72b9f3cc02e$LR•IPV4•51『线路33』
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1761595080-1-pcsf166abc6310b414fa89c9d44a037fa33-a5f624c806a5f45ccd69f1aa81054139&yid=pcsf166abc6310b414fa89c9d44a037fa33$LR•IPV4•51『线路33』
 #EXTINF:-1 tvg-id="34" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$LR•IPV4•51『线路34』
 #EXTINF:-1 tvg-id="35" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
