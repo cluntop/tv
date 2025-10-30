@@ -3229,8 +3229,8 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv$LR•IPV4
 都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12$LR•IPV4•31『线路27』
 都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/index.m3u8$LR•IPV6•31『线路28』
 都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226155/index.m3u8$LR•IPV6•31『线路29』
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•31『线路30』
-都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•31『线路31』
+都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•31『线路30』
+都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•31『线路31』
 金色学堂,http://sh.lnott.top:880/dx109.m3u8$LR•IPV4•10『线路1』
 金色学堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8$LR•IPV6•10『线路2』
 金色学堂,https://epg.pw/stream/303d79304fb4c6e23c320315de037e71f67a6ee8866d45e994b896d07eede2bb.m3u8$LR•IPV4•10『线路3』
