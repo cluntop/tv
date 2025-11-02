@@ -6191,77 +6191,79 @@ rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil$LR•IPV4�
 #EXTINF:-1 tvg-id="20" tvg-name="新动漫" group-title="数字频道",新动漫
 rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil$LR•IPV4•20『线路20』
 #EXTINF:-1 tvg-id="1" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://live.mxdyeah.top/live.php?id=jinyingSD$LR•IPV4•36『线路1』
+https://live.mxdyeah.top/live.php?id=jinyingSD$LR•IPV4•37『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$LR•IPV4•36『线路2』
+http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$LR•IPV4•37『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://58.19.43.46:9901/tsfile/live/1000_1.m3u8$LR•IPV4•36『线路3』
+http://58.19.43.46:9901/tsfile/live/1000_1.m3u8$LR•IPV4•37『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://116.128.242.83:9901/tsfile/live/1002_1.m3u8$LR•IPV4•36『线路4』
+http://116.128.242.83:9901/tsfile/live/1002_1.m3u8$LR•IPV4•37『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•36『线路5』
+http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•37『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://113.57.93.165:9900/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•36『线路6』
+http://113.57.93.165:9900/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•37『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8$LR•IPV4•36『线路7』
+https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8$LR•IPV4•37『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•36『线路8』
+http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•37『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•36『线路9』
+http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•37『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-9.ctv$LR•IPV4•36『线路10』
+https://stream1.freetv.fun/jin-ying-qia-tong-9.ctv$LR•IPV4•37『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8$LR•IPV4•36『线路11』
+https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8$LR•IPV4•37『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-10.m3u8$LR•IPV4•36『线路12』
+https://stream1.freetv.fun/jin-ying-qia-tong-10.m3u8$LR•IPV4•37『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-41.ctv$LR•IPV4•36『线路13』
+https://stream1.freetv.fun/jin-ying-qia-tong-41.ctv$LR•IPV4•37『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-21.m3u8$LR•IPV4•36『线路14』
+https://stream1.freetv.fun/jin-ying-qia-tong-21.m3u8$LR•IPV4•37『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-13.m3u8$LR•IPV4•36『线路15』
+https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-13.m3u8$LR•IPV4•37『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$LR•IPV6•36『线路16』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$LR•IPV6•37『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8$LR•IPV6•36『线路17』
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8$LR•IPV6•37『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://epg.pw/stream/c63a5626286e9017c57efde96337b54a1cb81a6626bb93f486fcbc1caadc7948.m3u8$LR•IPV4•36『线路18』
+https://epg.pw/stream/c63a5626286e9017c57efde96337b54a1cb81a6626bb93f486fcbc1caadc7948.m3u8$LR•IPV4•37『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8$LR•IPV4•36『线路19』
+https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8$LR•IPV4•37『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://ygbh.site/php/bfgd.php?id=105$LR•IPV4•36『线路20』
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz03M2U2YjE0YmQ1OWJmMDFhMGVkM2E2YjYwYTlmOGFmMyZ1aWQ9JnV1aWQ9M2U0NzBjZTEyODc2OTVjNjg0ZDg3NjgxMWMyNDg4MjEtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MjA2MzIyNA,,/JYKTMPP360.m3u8$LR•IPV4•37『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://cc06.tv12.xyz/55.m3u8$LR•IPV4•36『线路21』
+http://ygbh.site/php/bfgd.php?id=105$LR•IPV4•37『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8$LR•IPV4•36『线路22』
+https://cc06.tv12.xyz/55.m3u8$LR•IPV4•37『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通$LR•IPV4•36『线路23』
+https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8$LR•IPV4•37『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://home.wwang.pw:35455/itv/5000000006000040024.m3u8?cdn=bestzb$LR•IPV4•36『线路24』
+http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通$LR•IPV4•37『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://tvbox6.icu/tv/mgtv.php?id=287$LR•IPV4•36『线路25』
+http://home.wwang.pw:35455/itv/5000000006000040024.m3u8?cdn=bestzb$LR•IPV4•37『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$LR•IPV6•36『线路26』
+http://tvbox6.icu/tv/mgtv.php?id=287$LR•IPV4•37『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8$LR•IPV4•36『线路27』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$LR•IPV6•37『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•36『线路28』
+https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8$LR•IPV4•37『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•36『线路29』
+http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•37『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-9.ctv$LR•IPV4•36『线路30』
+http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•37『线路30』
 #EXTINF:-1 tvg-id="31" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8$LR•IPV4•36『线路31』
+https://stream1.freetv.fun/jin-ying-qia-tong-9.ctv$LR•IPV4•37『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-10.m3u8$LR•IPV4•36『线路32』
+https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8$LR•IPV4•37『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-41.ctv$LR•IPV4•36『线路33』
+https://stream1.freetv.fun/jin-ying-qia-tong-10.m3u8$LR•IPV4•37『线路33』
 #EXTINF:-1 tvg-id="34" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-21.m3u8$LR•IPV4•36『线路34』
+https://stream1.freetv.fun/jin-ying-qia-tong-41.ctv$LR•IPV4•37『线路34』
 #EXTINF:-1 tvg-id="35" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-13.m3u8$LR•IPV4•36『线路35』
+https://stream1.freetv.fun/jin-ying-qia-tong-21.m3u8$LR•IPV4•37『线路35』
 #EXTINF:-1 tvg-id="36" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$LR•IPV4•36『线路36』
+https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-13.m3u8$LR•IPV4•37『线路36』
+#EXTINF:-1 tvg-id="37" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
+http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$LR•IPV4•37『线路37』
 #EXTINF:-1 tvg-id="1" tvg-name="金鹰纪实" group-title="数字频道",金鹰纪实
 http://sh.lnott.top:880/dx96.m3u8$LR•IPV4•28『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="金鹰纪实" group-title="数字频道",金鹰纪实
