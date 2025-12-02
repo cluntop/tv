@@ -122,7 +122,7 @@ CCTV4中文国际,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/8
 CCTV4中文国际,http://148.135.93.213/live.php?id=CCTV4$LR•IPV4•39『线路18』
 CCTV4中文国际,http://218.13.14.6:60050/tsfile/live/1004_1.m3u8$LR•IPV4•39『线路19』
 CCTV4中文国际,http://58.57.40.22:9901/tsfile/live/1003_1.m3u8$LR•IPV4•39『线路20』
-CCTV4中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1764709200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-6c4850dad05a2612d664e6673feabc9c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•39『线路21』
+CCTV4中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1764712800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-07bc42a317ca1469c111d5b20529ea55&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•39『线路21』
 CCTV4中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$LR•IPV4•39『线路22』
 CCTV4中文国际,http://ygbh.site/php/bfgd.php?id=063$LR•IPV4•39『线路23』
 CCTV4中文国际,http://112.27.235.94:8000/hls/4/index.m3u8$LR•IPV4•39『线路24』
@@ -875,7 +875,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•4『线路4』
 浙江卫视,http://home.wwang.pw:35455/itv/1000000005000265031.m3u8?cdn=ystenlive$LR•IPV4•76『线路53』
 浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8$LR•IPV4•76『线路54』
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•76『线路55』
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1764655331-48dd318bfeed94d4c9339663d9486fb2-0-b4c3f12c439546940e22ac20534e22c3$LR•IPV4•76『线路56』
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1764659020-bd7404b1752a3d0bd99e68f5dc0bba3b-0-229fd0115426307f479380e8c4763eee$LR•IPV4•76『线路56』
 浙江卫视,http://pull-skycorp.speedws.com/live/gbH4PLQ3sx9tsENsNRHYN0fXCkRq5E1sVCiXPZPoRHSwF6qIbcq.flv$LR•IPV4•76『线路57』
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8$LR•IPV4•76『线路58』
 浙江卫视,http://ygbh.site/php/bfgd.php?id=094$LR•IPV4•76『线路59』
@@ -1124,7 +1124,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•4『线路4』
 重庆卫视,http://home.wwang.pw:35455/itv/1000000005000265017.m3u8?cdn=ystenlive$LR•IPV4•50『线路31』
 重庆卫视,http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8$LR•IPV4•50『线路32』
 重庆卫视,http://220.192.12.20:8003/udp/225.0.4.187:7980?$LR•IPV4•50『线路33』
-重庆卫视,http://p2.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202512021205/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•50『线路34』
+重庆卫视,http://p2.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202512021414/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•50『线路34』
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8$LR•IPV4•50『线路35』
 重庆卫视,http://ygbh.site/php/bfgd.php?id=107$LR•IPV4•50『线路36』
 重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8$LR•IPV4•50『线路37』
@@ -1591,7 +1591,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•4『线路4』
 河南卫视,http://148.135.93.213/live.php?id=河南卫视$LR•IPV4•47『线路25』
 河南卫视,http://home.wwang.pw:35455/itv/1000000002000027731.m3u8?cdn=ystenlive$LR•IPV4•47『线路26』
 河南卫视,http://39.164.160.249:9901/tsfile/live/0139_1.m3u8$LR•IPV4•47『线路27』
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=1bc69dc1534a6aa247974188f389521b&wsTime=1764669297$LR•IPV4•47『线路28』
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=963e06b4f866313fc6106d768e67eea7&wsTime=1764672986$LR•IPV4•47『线路28』
 河南卫视,http://ygbh.site/php/bfgd.php?id=104$LR•IPV4•47『线路29』
 河南卫视,http://112.6.239.227:8207/hls/31/index.m3u8$LR•IPV4•47『线路30』
 河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8$LR•IPV4•47『线路31』
@@ -3083,7 +3083,7 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-9.ctv$LR•IPV4
 金鹰卡通,http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8$LR•IPV6•35『线路16』
 金鹰卡通,https://epg.pw/stream/c63a5626286e9017c57efde96337b54a1cb81a6626bb93f486fcbc1caadc7948.m3u8$LR•IPV4•35『线路17』
 金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8$LR•IPV4•35『线路18』
-金鹰卡通,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmY2hzPSZkZWY9MSZzPWZlYTAxMWE3N2EyMjFhMzNiODhiMzc2ZTA0ZmZmNGRjJnVpZD0mdXVpZD1mOWUwOGQ3YmI2OGI5MGIzZmM2Yzc1YzAxNDBlYmQ5Yi02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzY0Njg0MDI0/JYKTMPP360.m3u8$LR•IPV4•35『线路19』
+金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1iYmU4YTllOWViNTIxZGExYThlOGY4ZTljNjgwNWJlOCZ1aWQ9JnV1aWQ9OTMwNWI2MGQwYzQ5MTFlNDg1NDBjZjQ0OTA3ZjFhOGEtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2NDY4NDQzOA,,/JYKTMPP360.m3u8$LR•IPV4•35『线路19』
 金鹰卡通,http://ygbh.site/php/bfgd.php?id=105$LR•IPV4•35『线路20』
 金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8$LR•IPV4•35『线路21』
 金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通$LR•IPV4•35『线路22』
