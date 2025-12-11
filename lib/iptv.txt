@@ -123,7 +123,7 @@ CCTV4中文国际,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV
 CCTV4中文国际,http://148.135.93.213/live.php?id=CCTV4$LR•IPV4•39『线路18』
 CCTV4中文国际,http://218.13.14.6:60050/tsfile/live/1004_1.m3u8$LR•IPV4•39『线路19』
 CCTV4中文国际,http://58.57.40.22:9901/tsfile/live/1003_1.m3u8$LR•IPV4•39『线路20』
-CCTV4中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1765512000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-8f4beb496a44937832cc859c005b2114&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•39『线路21』
+CCTV4中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1765515600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-c06f9f331eec6a4d981804cb05591624&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•39『线路21』
 CCTV4中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$LR•IPV4•39『线路22』
 CCTV4中文国际,http://ygbh.site/php/bfgd.php?id=063$LR•IPV4•39『线路23』
 CCTV4中文国际,https://play.kankanlive.com/live/1698234936258960.m3u8$LR•IPV4•39『线路24』
@@ -880,7 +880,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•4『线路4』
 浙江卫视,http://home.wwang.pw:35455/itv/1000000005000265031.m3u8?cdn=ystenlive$LR•IPV4•73『线路52』
 浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8$LR•IPV4•73『线路53』
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路54』
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1765456672-7044054fcd378dd6bd6c2d890fabedb1-0-935e1a78538bfbfe5d59d9858dcc0841$LR•IPV4•73『线路55』
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1765460335-ec6ba3b763258ccdbf3cceb5df9c8a47-0-24fce727bb31ca2c73b0f3022a9e8dc0$LR•IPV4•73『线路55』
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8$LR•IPV4•73『线路56』
 浙江卫视,http://ygbh.site/php/bfgd.php?id=094$LR•IPV4•73『线路57』
 浙江卫视,http://112.6.239.227:8207/hls/16/index.m3u8$LR•IPV4•73『线路58』
@@ -1126,7 +1126,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•4『线路4』
 重庆卫视,http://home.wwang.pw:35455/itv/1000000005000265017.m3u8?cdn=ystenlive$LR•IPV4•50『线路31』
 重庆卫视,http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8$LR•IPV4•50『线路32』
 重庆卫视,http://220.192.12.20:8003/udp/225.0.4.187:7980?$LR•IPV4•50『线路33』
-重庆卫视,http://p2.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202512112005/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•50『线路34』
+重庆卫视,http://p2.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202512112206/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•50『线路34』
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8$LR•IPV4•50『线路35』
 重庆卫视,http://ygbh.site/php/bfgd.php?id=107$LR•IPV4•50『线路36』
 重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8$LR•IPV4•50『线路37』
