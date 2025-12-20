@@ -70,20 +70,6 @@ jobs:
           echo "| **源仓库** | [${{ env.UPSTREAM_REPO }}](https://github.com/${{ env.UPSTREAM_REPO }}) |" >> $GITHUB_STEP_SUMMARY
           echo "| **结果** | ${{ steps.sync.outputs.sync_status == 'success' && '✅ 成功 (Success)' || '❌ 失败 (Failed)' }} |" >> $GITHUB_STEP_SUMMARY
 
-      - name: Notify Failure via Telegram
-        if: failure() && secrets.TELEGRAM_TOKEN != ''
-        uses: appleboy/telegram-action@master
-        with:
-          to: ${{ secrets.TELEGRAM_TO }}
-          token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: |
-            🚨 **GitHub Actions 同步失败！**
-            
-            仓库: ${{ github.repository }}
-            上游: ${{ env.UPSTREAM_REPO }}
-            
-            请检查: https://github.com/${{ github.repository }}/actions
-
       - name: Delete Old Workflows
         uses: Mattraks/delete-workflow-runs@v2
         with:
