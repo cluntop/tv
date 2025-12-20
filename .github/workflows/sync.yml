@@ -1,72 +1,94 @@
 name: Upstream Sync
-# 上游仓库同步助手
 
-# ---------------------------- #
-#         权限配置              #
-# ---------------------------- #
 permissions:
-  contents: write # 允许向仓库推送更改
+  contents: write
+  workflows: write
+  actions: write
 
-# ---------------------------- #
-#         触发器配置            #
-# ---------------------------- #
 on:
   schedule:
-    # 定时同步策略（UTC时间）
-    - cron: "0 * * * *"  # 每小时整点同步一次 (例如 00:00, 01:00...)
-    # - cron: "*/1 * * * *" # 每隔 1 分钟执行一次 (例如 12:01, 12:02...)
-    
-  # 手动触发选项（在 GitHub Actions 页面可手动运行）
+    - cron: "0 * * * *"
   workflow_dispatch:
+    inputs:
+      upstream_branch:
+        description: "上游仓库分支"
+        required: true
+        default: "main"
+        type: string
+      target_branch:
+        description: "目标仓库分支"
+        required: true
+        default: "main"
+        type: string
+      sync_strategy:
+        description: "同步策略"
+        required: true
+        default: "discard"
+        type: choice
+        options:
+          - discard # 强制同步：丢弃本地修改，完全复制上游 (推荐)
+          - merge   # 尝试合并：如果有冲突会报错
 
-# ---------------------------- #
-#         作业配置              #
-# ---------------------------- #
+env:
+  UPSTREAM_REPO: "cluntop/tvbox"
+  UPSTREAM_BRANCH: ${{ github.event.inputs.upstream_branch || 'main' }}
+  TARGET_BRANCH: ${{ github.event.inputs.target_branch || 'main' }}
+  SYNC_STRATEGY: ${{ github.event.inputs.sync_strategy || 'discard' }}
+
 jobs:
-  sync_latest_from_upstream:
-    # 从上游仓库同步最新提交
-    name: Sync latest commits from upstream repo
+  sync_upstream:
+    name: Sync and Notify
     runs-on: ubuntu-latest
-    # 仅在仓库是 Fork 时运行（避免原仓库误触发）
     if: ${{ github.event.repository.fork }}
 
     steps:
-      # ---------------------------- #
-      # 步骤1：检出当前仓库代码
-      # ---------------------------- #
-      - name: Checkout target repo
-        uses: actions/checkout@v3
+      - name: Checkout Target Repo
+        uses: actions/checkout@v6
         with:
-          fetch-depth: 0  # 获取完整提交历史（必要参数）
+          ref: ${{ env.TARGET_BRANCH }}
+          repository: cluntop/tvbox
+          token: ${{ secrets.GIT_TOKEN }}
+          persist-credentials: true
+          fetch-depth: 1
 
-      
-      # ---------------------------- #
-      # 步骤2：执行上游同步操作
-      # ---------------------------- #
-        # 同步上游变更
-      - name: Sync upstream changes
+      - name: Sync Upstream Changes
         id: sync
-        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
         with:
-          upstream_sync_repo: cluntop/tvbox # 上游仓库地址
-          upstream_sync_branch: main # 上游分支
-          target_sync_branch: main # 目标分支
-          target_repo_token: ${{ secrets.GITHUB_TOKEN }} # 自动生成，无需设置
-          test_mode: false # 关闭测试模式（真实操作）
+          upstream_sync_repo: ${{ env.UPSTREAM_REPO }}
+          upstream_sync_branch: ${{ env.UPSTREAM_BRANCH }}
+          target_sync_branch: ${{ env.TARGET_BRANCH }}
+          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+          upstream_pull_args: ${{ env.SYNC_STRATEGY == 'discard' && '--allow-unrelated-histories --force' || '' }}
+          target_branch_push_args: ${{ env.SYNC_STRATEGY == 'discard' && '--force' || '' }}
+          test_mode: false
 
-          # 将 test_mode 设置成 true 来运行测试而不是 true 操作!!
-          # test_mode: false
-
-        
-      # ---------------------------- #
-      # 步骤3：同步失败处理
-      # ---------------------------- #
-      - name: Sync check
-        if: failure()
+      - name: Generate Summary
         run: |
-          # 高亮显示错误信息（ GitHub 日志中红色警告）
-          echo "::error::同步失败，请手动处理冲突或同步！"
-          echo "::warning::1. 检查是否存在代码冲突"
-          echo "::warning::2. 前往仓库设置手动同步：https://github.com/${{ github.repository }}/compare/main...cluntop:main"
-          echo "::warning::3. 处理完成后重新运行此工作流"
-          exit 1
+          echo "### 🔄 同步报告 (Sync Report)" >> $GITHUB_STEP_SUMMARY
+          echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "| :--- | :--- |" >> $GITHUB_STEP_SUMMARY
+          echo "| **源仓库** | [${{ env.UPSTREAM_REPO }}](https://github.com/${{ env.UPSTREAM_REPO }}) |" >> $GITHUB_STEP_SUMMARY
+          echo "| **结果** | ${{ steps.sync.outputs.sync_status == 'success' && '✅ 成功 (Success)' || '❌ 失败 (Failed)' }} |" >> $GITHUB_STEP_SUMMARY
+
+      - name: Notify Failure via Telegram
+        if: failure() && secrets.TELEGRAM_TOKEN != ''
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+            🚨 **GitHub Actions 同步失败！**
+            
+            仓库: ${{ github.repository }}
+            上游: ${{ env.UPSTREAM_REPO }}
+            
+            请检查: https://github.com/${{ github.repository }}/actions
+
+      - name: Delete Old Workflows
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 1
+          keep_minimum_runs: 3
